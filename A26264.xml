@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An awakening word in season to the grand-jury-men of the nation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26264</idno>
+            <idno type="STC">Wing A4276</idno>
+            <idno type="STC">ESTC R3377</idno>
+            <idno type="EEBO-CITATION">13073179</idno>
+            <idno type="OCLC">ocm 13073179</idno>
+            <idno type="VID">97174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An awakening word in season to the grand-jury-men of the nation</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Arthur Jones ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compares certain works of Daniel Whitby and David Jenner.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenner, David, d. 1691. --  Beaufrons.</term>
+               <term>Whitby, Daniel, 1638-1726. --  Protestant reconciler.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97174:1" rendition="simple:additions"/>
+            <p>AN Awakening Word IN SEASON, TO THE Grand-Jury-Men OF THE NATION.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Arthur Jones,</hi> at the <hi>Flying-Horſe,</hi> near St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97174:2"/>
+            <pb n="3" facs="tcp:97174:2"/>
+            <p>A <hi>Book, Entituled,</hi> A Diſcovery of Treaſon, <hi>Printed at</hi> Cambridge <hi>for</hi> Charles Morden, <hi>a Bookſeller there, and commonly ſaid to have been Penn'd by Mr.</hi> Jenner <hi>of</hi> Gaius <hi>College, one of the King's Chaplains, and Prebendary of the Church of</hi> Sarum, <hi>hath publickly under<g ref="char:EOLhyphen"/>taken to prove Dr.</hi> Whithy (<hi>Praecentor of the ſame Church, and</hi> Confeſſedly, <hi>the Author of</hi> The Proteſtant Reconciler) <hi>Guilty of</hi> Treaſon; <hi>an</hi> Encourager of the New Plot; a Giver out unto the the People, <hi>That the</hi> King and Gover<g ref="char:EOLhyphen"/>nors were and are the Betrayers of their Liberties; <hi>and therefore</hi> deſerve Death. <hi>This in General; and in the Title Page of the Book.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:97174:3"/>
+               <hi>In the Book it ſelf (beginning at</hi> p. 60) <hi>'tis proved againſt the ſaid</hi> Daniel Whitby, <hi>D. D.</hi>
+            </p>
+            <list>
+               <item>1. That his Deſign is <hi>malicious and Treaſonable,</hi> not only towards the King, but alſo towards the Gover<g ref="char:EOLhyphen"/>nors of <hi>Church and State,</hi> Pag. 60.</item>
+               <item>2. That he ſcandalouſly makes the King and Governors, <hi>The Authors of all our preſent Schiſm and Factions,</hi> Pag. 61.</item>
+               <item>3. That he affirms an Horrid Schiſm, with all its dreadful Conſequences, to have been <hi>Cauſed</hi> (he does not ſay <hi>Occaſioned</hi>) by the <hi>Impoſition of them,</hi> throughout the Body of the Nation, <hi>pag.</hi> 62.</item>
+               <item>4. That according to the ſaid Dr. <hi>Whit<g ref="char:EOLhyphen"/>by,</hi> in his Libellous Book; <hi>The King and Governors, are proud Men, and the Plagues of the Earth, for Impoſing things Indifferent,</hi> p. 67.</item>
+               <item>
+                  <pb n="5" facs="tcp:97174:3" rendition="simple:additions"/>
+5. That he the ſaid Dr. <hi>Whitby, hath eaſt a great Lye on the King and Go<g ref="char:EOLhyphen"/>vernment.</hi>
+               </item>
+               <item>6. That according to him the ſaid Dr. <hi>Whitby, The King and Governors de<g ref="char:EOLhyphen"/>ſerve Death,</hi> for Impoſing things In<g ref="char:EOLhyphen"/>different, <hi>p.</hi> 68, 69.</item>
+               <item>7. That (according to him the ſaid Dr. <hi>Whitby</hi>) the King and Governors are <hi>Traitors to the Common-wealth, and Betrayers of the People's Liberties: and that the People ought not to yield to their Impoſitions; but ought to Re<g ref="char:EOLhyphen"/>bel, and vindicate their Chriſtian Li<g ref="char:EOLhyphen"/>berty;</hi> p. 70, 71, &amp;c.</item>
+               <item>8. That never did <hi>Hugh Peters</hi> Preach and Print greater Treaſon than the ſaid Dr. <hi>Whitby;</hi> upon the pretended force of whoſe <hi>Treaſonable Argument, Oliver and the Rump, with their Re<g ref="char:EOLhyphen"/>bellious Army, cut off King</hi> Charles the Firſt <hi>his Head,</hi> p. 71, 72, 73.</item>
+               <item>
+                  <pb n="6" facs="tcp:97174:4"/>
+9. <hi>That the King and Governors are af<g ref="char:EOLhyphen"/>firmed by Dr.</hi> Whitby, <hi>to want Piety and Prudence,</hi> in their impoſing upon the People things Indifferent, <hi>p.</hi> 74, 75.</item>
+               <item>10. That the ſaid Dr. <hi>Whitby</hi> does <hi>again ſound the Trumpet to a New Rebellion, odiouſly and maliciouſly miſ<g ref="char:EOLhyphen"/>repreſenting the King and Governors unto the People, as Idiots and Fools, as Wicked and <g ref="char:V">Ʋ</g>ngodly,</hi> p. 76.</item>
+               <item>11. That according to him the ſaid Dr. <hi>Whitby, The King and Governors are the Deſtroyers of the work of God, and the Murderers of myriads of Souls, by impoſing things Indifferent,</hi> p. 77.</item>
+               <item>12. That he the ſaid Dr. <hi>Whitby,</hi> feigns <hi>the King to command Men to ſin, when</hi> he commands their Obedience to things Indifferent, <hi>p.</hi> 79, 80.</item>
+            </list>
+            <p>Having Collected this ſingle dozen of remarkable things in that Book, which
+<pb n="7" facs="tcp:97174:4" rendition="simple:additions"/>its Author hath Entituled, <hi>A New Diſ<g ref="char:EOLhyphen"/>covery of Treaſon,</hi> and faithfully cited the ſeveral Pages wherein the Proofs are to be ſeen by every Reader; and where the <hi>Pages of</hi> Dr. <hi>Whitby,</hi> in his Libel<g ref="char:EOLhyphen"/>lous Book, Entituled, <hi>The Proteſtant Reconciler,</hi> are cited alſo: I do not wonder that the ſaid Libel was made an Example of at <hi>Oxford,</hi> where 'twas pub<g ref="char:EOLhyphen"/>lickly Condemned to be <hi>Burn'd Alive,</hi> like an <hi>Arrant Witch;</hi> becauſe it had been known too well to have <hi>Bewitched</hi> ſilly Creatures of each Sex with <hi>Rebelli<g ref="char:EOLhyphen"/>ous</hi> Diſaffections both to the King, and the Church of <hi>England.</hi> And <hi>Rebelli<g ref="char:EOLhyphen"/>on</hi> being a Sin like <hi>the Sin of Witchcraft,</hi> 'tis not ſtrange the Witch was burn'd. Nor do I wonder, that the Author of the <hi>New Diſcovery of Treaſon,</hi> has ſtig<g ref="char:EOLhyphen"/>matiz'd Dr. <hi>Whitby</hi> as the <hi>Scurrillous Reconciler,</hi> p. 66. or as a ſecond <hi>Hugh Peters,</hi> p. 72. or as <hi>a Janus with two
+<pb n="8" facs="tcp:97174:5"/>Faces,</hi> p. 65. whoſe Practices in a Ca<g ref="char:EOLhyphen"/>thedral (for the Keeping of <hi>Four Pre<g ref="char:EOLhyphen"/>ferments,</hi> enough for Four Better Men) do flatly contradict his Arguments for <hi>Non-Compliance, and Non-Conformity.</hi> Nor do I wonder, that the People do Nick-Name him <hi>Whigby,</hi> who has bro<g ref="char:EOLhyphen"/>ken all the Statutes of God and Man, to Patronize the worſt things in our Modern <hi>Whiggs;</hi> and to make them much worſe than before they were. I do not wonder, that Mr. <hi>Thomas</hi> (a ve<g ref="char:EOLhyphen"/>ry loyal and learned Writer) hath, in his excellent <hi>Remarks on the Prote<g ref="char:EOLhyphen"/>ſtant Reconciler,</hi> put the ſaddeſt Dilem<g ref="char:EOLhyphen"/>ma on Dr. <hi>Whitby,</hi> that ever was put by a good Logician upon an ill one: A Dilemma, which evinceth him to be the worſt of Men or Monſters, let him take which part he will, <hi>p.</hi> 4. Nor do I wonder, that Mr. <hi>Thomas</hi> hath proved the Railings of Fanaticks to be made
+<pb n="9" facs="tcp:97174:5"/>by Dr. <hi>Whitby,</hi> his own intirely, <hi>pag.</hi> 4. and 5. And that by three ſeveral Ca<g ref="char:EOLhyphen"/>nons now in force, to wit, the <hi>Fourth, Sixth</hi> and <hi>Tenth,</hi> Dr. <hi>Whitby</hi> ſtands ſen<g ref="char:EOLhyphen"/>tenced unto an <hi>Excommunication, pag.</hi> 5 and 6, <hi>&amp;c.</hi> Nor do I wonder, that Mr. <hi>Thomas</hi> (though of the greateſt Mode<g ref="char:EOLhyphen"/>ration) has told the World in <hi>plain Eng<g ref="char:EOLhyphen"/>liſh, That he</hi> (the ſaid Dr. <hi>Whitby</hi>) <hi>has plaid the Knave with two Kings,</hi> pag. 10. for he proves the Accuſation by unan<g ref="char:EOLhyphen"/>ſwerable Arguments, <hi>pag.</hi> 11, 12, 13, <hi>&amp;c.</hi> And other Arguments there are, which never yet came to that Author's Ears. I do not wonder, that Dr. <hi>Womock,</hi> (now Lord Biſhop of St. <hi>Davids</hi>) in his moſt excellent Book, entituled, <hi>(Suf<g ref="char:EOLhyphen"/>fragium Proteſtantium)</hi> hath publickly Gibbetted Dr. <hi>Whitby,</hi> as the weakeſt of Logicians, and worſt of Men. Nor do I wonder, that ſuch an Apoſtate, in his <hi>Proteſtant Joyner,</hi> has ſhew'd his Malice
+<pb n="10" facs="tcp:97174:6"/>
+               <hi>againſt the King's Commiſſioners at the Savoy,</hi> pag. 39, 40, 197, 198, 199, 330, 331. againſt the right Reverend Biſhop <hi>Taylor,</hi> Biſhop <hi>Davenant,</hi> Dr. <hi>Potter,</hi> Dr. <hi>Tillotſon,</hi> Dr. <hi>More,</hi> Dr. <hi>Burnet,</hi> Mr. <hi>Falk<g ref="char:EOLhyphen"/>ner,</hi> Judge <hi>Hales,</hi> and others, in too ma<g ref="char:EOLhyphen"/>ny Paſſages of his Libel to be here num<g ref="char:EOLhyphen"/>ber'd up, though I have them ready. Much leſs do I wonder at his Abuſes of the Learned and Reverend Dr. <hi>Stilling<g ref="char:EOLhyphen"/>fleet,</hi> as <hi>hypocritical and ſenſleſs,</hi> pag. 297, 298, 301, 302, 363. or as a Man of <hi>weak Evaſions,</hi> pag. 81, 82. much leſs yet at his avowed <hi>Partiality to the Schiſma<g ref="char:EOLhyphen"/>ticks,</hi> pag. 202, 203, 205, as far as to <hi>pag.</hi> 208. and again, <hi>p.</hi> 320, 363, 364. Laſt of all, I do not wonder, that ſuch a Monſter of Ingratitude to his own <hi>very good Lord,</hi> from whoſe Bounty he hath his Bread, ſhould reproachfully brand ſo great a Prelate, as the right Reverend Biſhop of <hi>Sarum,</hi> under the Notion of
+<pb n="11" facs="tcp:97174:6"/>
+               <hi>Patron; To whoſe Inſtructions and Exam<g ref="char:EOLhyphen"/>ple, Diſcourſe and Counſel, he owes the ſmall Improvements which he hath hitherto at<g ref="char:EOLhyphen"/>tained: Yea, from whoſe Favours and Pro<g ref="char:EOLhyphen"/>tection, he derives the Comforts and Sa<g ref="char:EOLhyphen"/>tisfactions of his Life; yes, and the En<g ref="char:EOLhyphen"/>couragement of all his Labours.</hi> By all which ſly Inſinuations, under the colour of a Complement in a <hi>Dedicatory Epiſtle,</hi> 'tis hard to ſay, how many ways he hath publickly injur'd ſo great a Father of the Church; as if the whole <hi>Crop</hi> of <hi>Miſ<g ref="char:EOLhyphen"/>chiefs</hi> which his <hi>Proteſtant Reconciler</hi> had done in <hi>England,</hi> had taken <hi>Root</hi> from his Lordſhip's <hi>Diſcourſe</hi> and <hi>Bounty.</hi> I ſay, I do not wonder at any one of theſe E<g ref="char:EOLhyphen"/>normities, or at all put together: I do not wonder at his Zeal, his impertinent Zeal, his Zeal againſt Knowledge, (ra<g ref="char:EOLhyphen"/>ther than without it) for the <hi>Bill of Ex<g ref="char:EOLhyphen"/>cluſion;</hi> or at the <hi>Timeing</hi> of his Libel againſt the Government, when the <hi>King</hi>
+               <pb n="12" facs="tcp:97174:7"/>was at <hi>New-Market,</hi> deſign'd for Slaugh<g ref="char:EOLhyphen"/>ter in his Return. I do not wonder at any Wickedneſs which hath proceeded, or may proceed from the worſt of Men: An Epiſcopal-Presbyterian, a Canonical-Cathedral-Fanatical-Anarchical-Repub<g ref="char:EOLhyphen"/>lican, an Antimonarchical-<hi>Cromwellian-Shaftsburian</hi>-Royaliſt; an half-faced, whole-faced, two-faced Brother.</p>
+            <p>But I and multitudes do wonder from day to day, and think we can never won<g ref="char:EOLhyphen"/>der enough, that after ſo many leſſer Cri<g ref="char:EOLhyphen"/>minals have been Hang'd, Drawn and Quarter'd, for fewer Crimes, leſs notori<g ref="char:EOLhyphen"/>ous than in Print; this <hi>Proteſtant Joyner,</hi> in whoſe Printed Libel <hi>Stephen College</hi> ſtill lives, is not yet Indicted by any <hi>Grand-Jury,</hi> for the <hi>Sedition,</hi> or the <hi>Trea<g ref="char:EOLhyphen"/>ſon</hi> whereof he ſtands charged by Mr. <hi>Jenner,</hi> (if he is as <hi>really</hi> as <hi>reputedly</hi> the Author of the Book, which occaſions mine) but ſtill lives wallowing in his ma<g ref="char:EOLhyphen"/>ny
+<pb n="13" facs="tcp:97174:7"/>and great Preferments, and ſlips his Neck out of every Collar prepared for, and due to him; meerly by the Verbal Mockery of a pretended <hi>Recantation,</hi> which coſt him nothing but the Plea<g ref="char:EOLhyphen"/>ſure of out-witting his Governors, by a Part acted in a Comical way; beſides the Pleaſure of being known (by that Side-wind) to have been indeed the Au<g ref="char:EOLhyphen"/>thor of that Famous Book, whereof till then he was but ſuſpected. And the Comical <hi>Recantation</hi> (in but one tranſi<g ref="char:EOLhyphen"/>ent Obſervator) had this remarkable Be<g ref="char:EOLhyphen"/>ginning: <hi>I</hi> Daniel Whitby, <hi>D.D. Chan<g ref="char:EOLhyphen"/>ter of</hi> Sarum, <hi>and Rector of the Pariſh-Church of St.</hi> Edmunds, <hi>in the City and Dioceſs of</hi> Sarum, <hi>having been the Author of a Book, called, the</hi> Proteſtant Recon<g ref="char:EOLhyphen"/>ciler, <hi>which through want of Prudence and Deference to Authority, I have cauſed to be</hi> Printed <hi>and</hi> Publiſhed; <hi>am truly and heartily ſorry for the ſame, and for the</hi> E<g ref="char:EOLhyphen"/>vil
+<pb n="14" facs="tcp:97174:8"/>Influence <hi>it hath had upon the Diſſen<g ref="char:EOLhyphen"/>ters from the Church of</hi> England, <hi>Eſtablſh<g ref="char:EOLhyphen"/>ed by Law, or otherwiſe,</hi> &amp;c.</p>
+            <p>Now, though the Loyal and Learn<g ref="char:EOLhyphen"/>ed Author, who Penn'd and Publiſh'd <hi>The New Diſcovery of Treaſon,</hi> hath pro<g ref="char:EOLhyphen"/>ved the <hi>Deſign of the Proteſtant Recon<g ref="char:EOLhyphen"/>ciler to be nothing but Anarchy and Con<g ref="char:EOLhyphen"/>fuſion in Church and State,</hi> (pag. 82.) which is a greater Treaſon than that <hi>for which by Law he is to be Hang'd,</hi> (pag. 80.) Yet ſo far hath he been from being Executed at <hi>Tyburn,</hi> or Degraded from his Prieſthood, or under Excom<g ref="char:EOLhyphen"/>munication, or Impriſonment for Life, or ſo much as ſuſpended from any Pro<g ref="char:EOLhyphen"/>fits of his Preferments, that under the Notion of <hi>Recanting,</hi> he has <hi>owned</hi> that Libel which was the Joy of his poor Heart, and the Delight of his Evil Eyes; that which made him ſo dear
+<pb n="15" facs="tcp:97174:8"/>to the Diſaffected of every ſort; and laſtly, procur'd him <hi>Letters of Thanks</hi> from the <hi>Anabaptiſts of Munſter,</hi> from the <hi>New-England Congregations,</hi> and from the <hi>Quakers of Penſilvania.</hi> All Three Printed at <hi>London</hi> for <hi>Benjamin Took,</hi> 1683.</p>
+            <p>Whoſoever ſhall well conſider, what a Judgment was pronounced in the Court of <hi>King's-Bench</hi> in <hi>Trinity-Term, viceſimo nono Caroli Secundi,</hi> againſt Mr. <hi>Joſeph Brown,</hi> meerly for <hi>Publiſh<g ref="char:EOLhyphen"/>ing an unlicenſed Book,</hi> called, <hi>The Long Parliament Diſſolved;</hi> and ſhall com<g ref="char:EOLhyphen"/>pare the ſignal Favor which was ſhewn to the ſaid <hi>Brown,</hi> by the ſame <hi>Houſe of Commons;</hi> which the very next Day fell ſo ſeverely on Mr. <hi>Thompſon,</hi> (now Dean of <hi>Briſtol</hi>) will juſtly wonder, that our <hi>Grand-Juries</hi> have been as of<g ref="char:EOLhyphen"/>ten
+<pb n="16" facs="tcp:97174:9"/>in a deep Sleep, as Dr. <hi>Whitby,</hi> and his <hi>Sedition,</hi> (ſuppoſing it does not amount to <hi>Treaſon</hi>) hath been omit<g ref="char:EOLhyphen"/>ted in their Indictments.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
